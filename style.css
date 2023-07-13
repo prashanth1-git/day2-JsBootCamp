@@ -1,0 +1,23 @@
+
+/* 1. Vote Eligibiility assignment */
+input{
+  border: 1px solid lightskyblue;
+  padding: 15px;
+  font-size: 16px 12px;
+  border-radius: 12px;
+  width: 16%;
+  box-sizing: border-box;
+  margin-bottom: 14px;
+}
+
+.btn{
+  background-color: black;
+  border: none;
+  padding: 14px 30px;
+  border-radius: 12px;
+  font-size: 15px;
+  cursor: pointer;
+  color: white
+}
+
+
